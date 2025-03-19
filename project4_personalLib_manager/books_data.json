@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Action speak louder than ords",
+        "author": "arisha",
+        "genre": "guideline",
+        "year": "1999",
+        "read": false
+    },
+    {
+        "title": "Action speak louder than words",
+        "author": "arisha",
+        "genre": "document",
+        "year": "2025",
+        "read": false
+    },
+    {
+        "title": "hi firls",
+        "author": "areebaa",
+        "genre": "fun",
+        "year": "2000",
+        "read": true
+    },
+    {
+        "title": "laugh",
+        "author": "arisha",
+        "genre": "fun",
+        "year": "2050",
+        "read": false
+    }
+]
